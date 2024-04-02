@@ -30,4 +30,4 @@ You can customize the program by modifying the constants at the top of the code:
 - `FOOD_RADIUS`, `AGENT_RADIUS`, and `OBSTACLE_RADIUS`: The sizes of the food, agents, and obstacles.
 - `NUM_FOOD` and `NUM_OBSTACLES`: The number of food items and obstacles in the environment.
 
-You can also experiment with different neural network architectures and configurations by modifying the `config-feedforward` file.
+You can also experiment with different neural network architectures and configurations by modifying the `config-neat` file.
